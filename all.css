@@ -145,6 +145,7 @@ footer ul {
 }
 footer ul a {
 	color: #fff;
+	display: block;
 	text-decoration: none;
 }
 p {
